@@ -1,15 +1,20 @@
 ## Hi there 👋
 
-📝 I write at [hyr.mn](http://hyr.mn). I mostly write about code and technology. Sometimes life. 
+I'm Ben. I'm a software developer 💻. 
 
-I mostly like playing around with little apps or samples and I have quite a few [gists](https://gist.github.com/hyrmn). But, those aren't exactly approachable. Most of them were written to share either on Twitter or in various chat channels. I think I'll curate some of the most interesting ones over to my blog.
+🏠 I write at [hyr.mn](http://hyr.mn). I mostly write 📝 about code and technology. Sometimes life.
 
-I have a lot of experience with C# and .NET. I think I have enough experience to say I'm definitely not an expert.
-
-I also like learning other languages as I feel it gives me fresh ways to look at possible solutions in my domain. I haven't taken any language far enough to build out any of my [awesome ideas](https://github.com/hyrmn/ThousandDollarIdeas). But, I should. 
-
-Lately, I've been diving into Go a bit more seriously. I know the language, and it's author, force rather polarizing opinions. For me, though, it's been wonderful as a low-ceremony, straight-forward language. In a way, it's brought back a lot of the joy I felt when I was first learning how to  program.
-
-If you want help with anything related to gardening (one of my passions although I'm currently dirt-less), web development with .NET, or just someone to pair up with on fun problems, please reach out.
-
-📫 You can get me at [hyrman@fastmail.net](mailto:hyrman@fastmail.net), [@hyrman](https://twitter.com/hyrmn) on twitter.com, or via issues on this repo (maybe, I guess we'll see how that goes)
+💕 Things I like:
+ - 🌱 Gardening (I am currently dirtless but we can jam about plants whenever you want
+ - 📖 Reading. I'm an avid reader. If you've got a favorite book, I want to hear about it.
+ - 📷 Photography. I have made some of my favorite shots available under a CC0 license on [Flickr](https://www.flickr.com/photos/benhyr)
+ - 🤼 Working with others on interesting projects. If you want to pair up on a fun problem (especially if you just need a rubber 🦆), get in touch!
+ - C# and .NET. I know enough to know I'm not an expert, but I've been writing code for a while.
+ 
+ How to find 🔍 me around the web 🌎:
+  - 📫 You can email me at [hyrman@fastmail.net](mailto:hyrman@fastmail.net)
+  - 💭 You can tweet me [@hyrman](https://twitter.com/hyrmn). My DMs are open as well.
+  - 🔗 Or, if you have a killer job that you think I am perfect for, you can reach me on [LinkedIn](https://www.linkedin.com/in/benhyrman/)
+  - 📜 Open an issue on [this repository](https://github.com/hyrmn/hyrmn)
+  
+✨ Have a wonderful day✨

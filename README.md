@@ -18,5 +18,3 @@ I'm Ben. I'm a software developer 💻.
   - 📜 Open an issue on [this repository](https://github.com/hyrmn/hyrmn)
   
 ✨ Have a wonderful day✨
-
-👨🏻‍💻

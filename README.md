@@ -12,7 +12,7 @@ I'm Ben. I'm a software developer 💻.
  - C# and .NET. I know enough to know I'm not an expert, but I've been writing code for a while.
  
  How to find 🔍 me around the web 🌎:
-  - 📫 You can email me at [hyrman@fastmail.net](mailto:hyrman@fastmail.net)
+  - 📫 You can email me at [ben@hyr.mn](mailto:ben@hyr.mn)
   - 💭 You can tweet me [@hyrmn](https://twitter.com/hyrmn). My DMs are open as well.
   - 🔗 Or, if you have a killer job that you think I am perfect for, you can reach me on [LinkedIn](https://www.linkedin.com/in/benhyrman/). I might not be looking, but I might know some great people that are.
   - 📜 Open an issue on [this repository](https://github.com/hyrmn/hyrmn)

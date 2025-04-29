@@ -13,8 +13,7 @@ I'm Ben. I'm a software developer 💻.
  
  How to find 🔍 me around the web 🌎:
   - 📫 You can email me at [ben@hyr.mn](mailto:ben@hyr.mn)
-  - 💭 You can reach me on Bluesky [@hyr.mn](https://bsky.app/profile/hyr.mn)
   - 🔗 Or, you can reach me on [LinkedIn](https://www.linkedin.com/in/benhyrman/)
   - 📜 Open an issue on [this repository](https://github.com/hyrmn/hyrmn)
   
-✨ Have a wonderful day✨
+✨ Have a wonderful day ✨
